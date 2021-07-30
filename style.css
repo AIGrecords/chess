@@ -1,0 +1,20 @@
+.board 
+{
+    width: 400px;
+    border-radius: 8px;
+    margin: auto
+}
+
+.info 
+{
+    padding: 6px;
+    width: 400px;
+    margin: auto;
+}
+
+.move-history 
+{
+    padding: 9px;
+    max-height: 100px;
+    overflow-y: scroll;
+}
